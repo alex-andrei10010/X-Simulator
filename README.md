@@ -1,8 +1,8 @@
-PROJECT TITLE: Silhouette Simulator
-PURPOSE OF PROJECT: Entertaining Game
-VERSION: v4.1.1 
-DATE: 13/10/2022
-AUTHORS: Tim Skillman / Alexandru Andrei Mocanu
+PROJECT TITLE: Silhouette Simulator\
+PURPOSE OF PROJECT: Entertaining Game\
+VERSION: v4.1.1\
+DATE: 13/10/2022\
+AUTHORS: Tim Skillman & Alexandru Andrei Mocanu
 
 
 ## Table of Contents
