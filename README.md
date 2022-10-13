@@ -20,7 +20,7 @@ Silhouette Simulator is a tool that uses the GPGL code, created by the Silhouett
 
 
 ### Screenshot
-![Silhouette Simulator e.g](...)
+![Silhouette Simulator e.g](https://github.com/alex-andrei10010/Silhouette-Simulator/blob/main/SS_Welcome_Logo.png)
 
 
 
