@@ -1,7 +1,7 @@
-PROJECT TITLE: Silhouette Simulator\
-PURPOSE OF PROJECT: QA Software Testing\
-VERSION: v4.1.2\
-DATE: 13/10/2022\
+PROJECT TITLE: Silhouette Simulator  
+PURPOSE OF PROJECT: QA Software Testing  
+VERSION: v4.1.2  
+DATE: 13/10/2022  
 AUTHORS: Tim Skillman & Alexandru Andrei Mocanu
 
 
