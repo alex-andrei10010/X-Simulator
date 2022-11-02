@@ -20,7 +20,7 @@ Silhouette Simulator is a tool that uses the GPGL(Graphtec Plotter Graphics Lang
 
 
 ### Screenshot
-![Silhouette Simulator e.g](https://github.com/alex-andrei10010/Silhouette-Simulator/blob/main/SS_Welcome_Logo.png)
+![Silhouette Simulator e.g](https://github.com/alex-andrei10010/Silhouette-Simulator/blob/main/ss_welcome_logo.png)
 
 
 
