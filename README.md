@@ -1,4 +1,4 @@
-PROJECT TITLE: Simulator  
+PROJECT TITLE: X Simulator  
 PURPOSE OF PROJECT: QA Software Testing  
 VERSION: v4.1.2  
 DATE: 13/10/2022  
@@ -15,7 +15,7 @@ AUTHORS: Alexandru Andrei Mocanu
 ### General Info
 ***
 Project status: Under development\
-Silhouette Simulator is a tool that uses the GPGL(Graphtec Plotter Graphics Language), created by the Silhouette Software, to draw a 1:1 copy of the design on a virtual canvas environment.
+X Simulator is a tool that uses the GPGL(Graphtec Plotter Graphics Language), created by the X Software, to draw a 1:1 copy of the design on a virtual canvas environment.
 
 
 
