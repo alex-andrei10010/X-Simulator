@@ -1,8 +1,8 @@
-PROJECT TITLE: Silhouette Simulator  
+PROJECT TITLE: Simulator  
 PURPOSE OF PROJECT: QA Software Testing  
 VERSION: v4.1.2  
 DATE: 13/10/2022  
-AUTHORS: Tim Skillman & Alexandru Andrei Mocanu
+AUTHORS: Alexandru Andrei Mocanu
 
 
 ## Table of Contents
@@ -20,7 +20,7 @@ Silhouette Simulator is a tool that uses the GPGL(Graphtec Plotter Graphics Lang
 
 
 ### Screenshot
-![Silhouette Simulator e.g](https://github.com/alex-andrei10010/Silhouette-Simulator/blob/main/ss_welcome_logo.png)
+![Simulator e.g](https://github.com/alex-andrei10010/Silhouette-Simulator/blob/main/ss_welcome_logo.png)
 
 
 
